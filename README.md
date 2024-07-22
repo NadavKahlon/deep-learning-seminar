@@ -4,7 +4,7 @@ This is a deep learning seminar I worked on between 2022 and 2023, as part of my
 
 ## Agenda
 
-The seminar explores the concept of large-scale unsuperviesed pretraining of deep learning models. The seminar is surrounded by the hypothesis that this AI-system development scheme may be key for our future advanecments towards Artificial General Intelligence, thanks several of its powerful properties.
+The seminar explores the concept of large-scale unsuperviesed pretraining of deep learning models. The seminar is surrounded by the hypothesis that this AI-system development scheme may be key for our future advanecments towards Artificial General Intelligence, thanks to several of its powerful properties.
 
 To confirm this hypothesis, we closely examine a couple of series of models by OpenAI, which were based on that scheme: CLIP and GPT. We thoroughly review their implementation (from scratch), performance, transfer capabilities, explainability, broader impacts, and custom applications by the research community.
 
